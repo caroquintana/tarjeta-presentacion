@@ -1,0 +1,52 @@
+.formato{
+    width: 54%;
+    margin: 0 auto;
+    height: 406px;
+    margin-top: 50px;
+    position: relative;
+    background-image: url(../img/steph.jpg);
+}
+.forma{
+    width: 278px;
+    height: 406px;
+    background: #413d3d;
+    position: absolute;
+    bottom: 0;
+    left: 403px;
+}
+.triangulo{
+	width: 0px;
+    height: 9px;
+    border-bottom: 405px solid #413d3d;
+    border-left: 100px solid transparent;
+    position: absolute;
+    bottom: 0;
+    left: 303px;
+}
+.laboratoria{
+	width: 80px;
+    height: 80px;
+    background-image: url(../img/Isotipo.png);
+    position: absolute;
+    bottom: 0;
+    left: 602px;
+}
+.texto{
+	width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 40;
+    left: 440px;
+}
+h1{
+	color: whitesmoke;
+	font-size: 30px
+}
+h2{
+	color:#f7b617;
+	font-size: 18px;
+}
+p{
+	color: whitesmoke;
+	font-size: 13px;
+}
