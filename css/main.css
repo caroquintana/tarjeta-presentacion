@@ -34,9 +34,10 @@
 .texto{
 	width: 400px;
     height: 400px;
+    font-family: 'Open Sans', sans-serif;
     position: absolute;
-    top: 40;
-    left: 440px;
+    top: 40px;
+    left: 436px;
 }
 h1{
 	color: whitesmoke;
